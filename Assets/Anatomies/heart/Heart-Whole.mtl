@@ -1,0 +1,66 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 01.11.2015 02:07:23
+
+newmtl wire_006134006
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.0235 0.5255 0.0235
+	Kd 0.0235 0.5255 0.0235
+	Ks 0.3500 0.3500 0.3500
+
+newmtl RightAtrium_Whole
+	Ns 84.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2471 0.0314 0.0314
+	Kd 0.2471 0.0314 0.0314
+	Ks 0.6390 0.6390 0.6390
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Catherine\Desktop\My Documents\WorkProjects\3D_HumanModel\BodyMaps\Heart\RightAtrium Whole\RightAtrium Whole-Color.png
+	map_Kd C:\Users\Catherine\Desktop\My Documents\WorkProjects\3D_HumanModel\BodyMaps\Heart\RightAtrium Whole\RightAtrium Whole-Color.png
+	map_Ke Map__505_Falloff.tga
+	map_refl C:\Users\Catherine\Desktop\My Documents\WorkProjects\3D_HumanModel\BodyMaps\Heart\RightAtrium Whole\RightAtrium Whole-Color.png
+	map_bump C:\Users\Catherine\Desktop\My Documents\WorkProjects\3D_HumanModel\BodyMaps\Heart\RightAtrium Whole\RightAtrium Whole-Color.png
+	map_refl C:\Users\Catherine\Desktop\My Documents\WorkProjects\3D_HumanModel\BodyMaps\Heart\RightAtrium Whole\RightAtrium Whole-Color.png
+
+newmtl LeftAtrium_Whole
+	Ns 84.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2471 0.0314 0.0314
+	Kd 0.2471 0.0314 0.0314
+	Ks 0.6390 0.6390 0.6390
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Catherine\Desktop\My Documents\WorkProjects\3D_HumanModel\BodyMaps\Heart\LeftAtrium Whole\LeftAtrium Whole-Color.png
+	map_Kd C:\Users\Catherine\Desktop\My Documents\WorkProjects\3D_HumanModel\BodyMaps\Heart\LeftAtrium Whole\LeftAtrium Whole-Color.png
+	map_Ke Map__505_Falloff.tga
+	map_refl C:\Users\Catherine\Desktop\My Documents\WorkProjects\3D_HumanModel\BodyMaps\Heart\LeftAtrium Whole\LeftAtrium Whole-Color.png
+	map_bump C:\Users\Catherine\Desktop\My Documents\WorkProjects\3D_HumanModel\BodyMaps\Heart\LeftAtrium Whole\LeftAtrium Whole-Color.png
+	map_refl C:\Users\Catherine\Desktop\My Documents\WorkProjects\3D_HumanModel\BodyMaps\Heart\LeftAtrium Whole\LeftAtrium Whole-Color.png
+
+newmtl HeartMain_Whole
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2706 0.0314 0.0314
+	Kd 0.2706 0.0314 0.0314
+	Ks 0.9990 0.9990 0.9990
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Catherine\Desktop\My Documents\WorkProjects\3D_HumanModel\BodyMaps\Heart\HeartMain\PaintLayers FrMudbox\HeartMain-Color.png
+	map_Kd C:\Users\Catherine\Desktop\My Documents\WorkProjects\3D_HumanModel\BodyMaps\Heart\HeartMain\PaintLayers FrMudbox\HeartMain-Color.png
+	map_Ke Map__509_Falloff.tga
+	map_refl C:\Users\Catherine\Desktop\My Documents\WorkProjects\3D_HumanModel\BodyMaps\Heart\HeartMain\PaintLayers FrMudbox\HeartMain-Color Translucent.jpg
+	map_bump C:\Users\Catherine\Desktop\My Documents\WorkProjects\3D_HumanModel\BodyMaps\Heart\HeartMain\SculptLayers FrMudbox\HeartMuscle_NormalMap.png
+	map_refl C:\Users\Catherine\Desktop\My Documents\WorkProjects\3D_HumanModel\BodyMaps\Heart\HeartMain\PaintLayers FrMudbox\HeartMain-Color Translucent.jpg
